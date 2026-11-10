@@ -1,0 +1,23 @@
+{
+  "name": "duck-emporium",
+  "version": "1.0.0",
+  "description": "**WeAreDevelopers Full-Day Hands-On Lab — Spec-Driven Development: Building & Modernizing with Agentic AI.**",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michalk404/wad-sdd-build-modernize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michalk404/wad-sdd-build-modernize/issues"
+  },
+  "homepage": "https://github.com/michalk404/wad-sdd-build-modernize#readme"
+}
