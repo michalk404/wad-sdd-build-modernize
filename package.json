@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/michalk404/wad-sdd-build-modernize/issues"
   },
-  "homepage": "https://github.com/michalk404/wad-sdd-build-modernize#readme"
+  "homepage": "https://github.com/michalk404/wad-sdd-build-modernize#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0"
+  }
 }
